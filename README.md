@@ -1,3 +1,3 @@
 # Comp2113-Group110-repos
 This is our repository for the group 110's project
-JJJ
+In this game, the player plays as a stockbroker. Initially a certain amount of money will be paid to the player's account. In the stock market, the player can make decisions to buy or sell stocks. The share price floats in a moderate range over time. Additionally, some events will happen to affect the share price to a large extent. For example, since the steady growth of China-US relations, oil shares move up. And these events will be news and posted in our newsroom. Meanwhile, you have the opportunity to pay for the insider news, which will help you to make a decision in advance. This kind of principle requires the player to observe the trend of this model stock market. The way to win this game is to earn the target money.
