@@ -31,6 +31,6 @@ main:  main.o GetInfo.o Goodbye.o Introduction.o LoadGameStatus.o NewsRoom.o Sav
 	g++ $^ -o $@ -pthread
 
 clean: 
-	rm *.o main
+	rm *.o
 
 .PHONY: clean
