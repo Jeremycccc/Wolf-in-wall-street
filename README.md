@@ -4,9 +4,7 @@ Group No.: 110
 
 
 
-Group Members:   Jeremycccc :  Chen Hanyang    3035772420
-
-                 PAMPEREDS :   Xie Zhuolun     3035771414
+Group Members:   Jeremycccc :  Chen Hanyang    3035772420       PAMPEREDS :   Xie Zhuolun     3035771414
 
 *************************************************************************************************************************
 
